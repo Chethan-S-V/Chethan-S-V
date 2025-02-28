@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning AI/ML,MERN stack<br>🔭 I’m currently working on Karnatism Tourism Website
+🌱 I’m currently learning AI/ML,MERN stack<br>🔭 I’m currently working on Karnatism Tourism Website and GTunes (A music website clone)
 
 
 ## 🌐 Socials:
