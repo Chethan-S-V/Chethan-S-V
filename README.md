@@ -1,7 +1,9 @@
+## Hello👋, Chethan here
+💡 A Passionate developer from Banglore ♨️ 
 
-
-# 💫 About Me:
-🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br>🔭 I’m currently working on Karnatism Tourism Website and GTunes (A music website clone)
+# 💫 About Me:<br>
+🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br><br>
+🔭 I’m currently working on Karnatism Tourism Website and GTunes (A music website clone)<br><br>
 💬 Ask me about Programming,FSWD <br><br>
 👍 Checkout my resume <a href="">here</a> <br> <br>
 🙌 Reach out to me at chethangowda.1922@gmail.com 
