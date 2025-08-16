@@ -5,7 +5,7 @@
 🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br><br>
 🔭 I’m currently working on Karnatism Tourism Website and GTunes (A music website clone)<br><br>
 💬 Ask me about Programming,FSWD <br><br>
-👍 Checkout my resume <a href="(https://drive.google.com/file/d/1tBQt2uvSeMx8Fee_iZccMSAGAgaK3rPH/view?usp=drive_link)">here</a> <br> <br>
+👍 Checkout my resume <a href="https://drive.google.com/file/d/1tBQt2uvSeMx8Fee_iZccMSAGAgaK3rPH/view?usp=drive_link">here</a> <br> <br>
 🙌 Reach out to me at chethangowda.1922@gmail.com 
 
 
